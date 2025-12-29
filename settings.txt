@@ -1,0 +1,3 @@
+NightMode: 0
+MinStudy: 60
+MinRest: 10
